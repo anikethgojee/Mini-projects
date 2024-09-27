@@ -1,0 +1,6 @@
+The following code is Don't laugh challenge project
+
+Find jokes and try not to laugh. Hope you found this project interesting
+and do make sure to try it with your loved ones.
+
+Keep building something interesting.
