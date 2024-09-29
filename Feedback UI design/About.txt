@@ -1,4 +1,6 @@
-The following code is Feedback UI design
+The following code is Feedback UI design project
 
-You can use this as a reference to build your Feedback form.
-Hope you will find this mini project snippet useful.
+This is a simple demonstration of Feedback UI using basic HTML, CSS and JavaScript.
+
+The UI and styling of a website highly matters in modern times.
+Keep building something useful and interesting.
