@@ -1,0 +1,5 @@
+The following code is Good, Cheap, Fast project
+
+This is a demonstration of how a project is build in less time, "how one can only do 2 things in Good, cheap and fast qualities in making a project" using basic HTML, CSS and JavaScript.
+
+Keep building something useful and interesting.
