@@ -1,0 +1,6 @@
+The following code is Progress steps project
+
+This is a simple demonstration of Progress steps for websites using basic HTML, CSS and JavaScript.
+
+The UI and styling of a website highly matters in modern times.
+Keep building something useful and interesting.
