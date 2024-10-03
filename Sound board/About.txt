@@ -1,0 +1,6 @@
+The following code is Sound Board project
+
+This is a simple demonstration of Sound Board for websites using basic HTML, CSS and JavaScript.
+
+The UI and styling of a website highly matters in modern times.
+Keep building something useful and interesting.
