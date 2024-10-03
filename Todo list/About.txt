@@ -1,0 +1,8 @@
+The following code is a simple Todo list project
+
+This is a simple demonstration of Todo list for websites using basic HTML, CSS and JavaScript.
+
+You can use the Todo list for organizing and scheduling your day.
+
+The UI and styling of a website highly matters in modern times.
+Keep building something useful and interesting.
