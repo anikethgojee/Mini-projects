@@ -1,0 +1,8 @@
+The following code is a Image Carousel project
+
+This is a simple demonstration of Image Carousel for websites using basic HTML, CSS and JavaScript.
+
+You can use the Image Carousel to improve your make your websites more interesting.
+
+The UI and styling of a website highly matters in modern times.
+Keep building something useful and interesting.
